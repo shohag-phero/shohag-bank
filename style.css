@@ -14,7 +14,7 @@ body{
     padding-bottom: 9px;
 }
 #transaction-area{
-    display: none;
+    display:none ;
 }
 .deposit{
     background-color: slateblue;
